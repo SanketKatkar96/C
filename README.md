@@ -8,7 +8,7 @@ It’s procedural. That means we write step-by-step instructions — like tellin
 
 
 
-C is a Programming Language
+C is a Programming Language :-
 
 C is a general-purpose programming language.
 
