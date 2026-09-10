@@ -21,4 +21,13 @@ C is case-sensitive.
 Name, name, and NAME are different.
 
 Compiler Based
-C programs are converted into machine code using a compiler before execution.
+C programs are converted into machine code using a compiler before execution
+Basic C Program Syntax
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World");
+
+    return 0;
+}
