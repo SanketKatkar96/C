@@ -24,7 +24,7 @@ Name, name, and NAME are different.
 Compiler Based
 C programs are converted into machine code using a compiler before execution
 # Basic C Program Syntax
-#include <stdio.h>
+```#include <stdio.h>
 
 int main()
 {
@@ -32,3 +32,4 @@ int main()
 
     return 0;
 }
+```
