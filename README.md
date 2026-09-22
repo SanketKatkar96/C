@@ -18,9 +18,9 @@ C was built to do one thing really well: control the machine without unnecessary
 - Program is divided into functions.
 - Case Sensitive.
 
-## C is case-sensitive.
+## C is case-sensitive
 
-Name, name, and NAME are different.
+Name, name, and NAME are different
 
 Compiler Based
 C programs are converted into machine code using a compiler before execution
