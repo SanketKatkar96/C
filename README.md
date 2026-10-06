@@ -16,7 +16,7 @@ C was built to do one thing really well: control the machine without unnecessary
 - Procedural Language
 - C follows a procedural programming approach.
 - Program is divided into functions.
-- Case Sensitive.
+- Case Sensitive
 
 # C is case-sensitive
 
@@ -25,7 +25,8 @@ Name, name, and NAME are different
 Compiler Based
 C programs are converted into machine code using a compiler before execution
 # Basic C Program Syntax
-```#include <stdio.h>
+```
+#include <stdio.h>
 
 int main()
 {
