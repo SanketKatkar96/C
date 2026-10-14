@@ -1,5 +1,4 @@
 # C
-
 # What Is C Programming?
 - C isn’t just a language.
 - It’s the bedrock of software development — fast, lean, and beautifully logical.
