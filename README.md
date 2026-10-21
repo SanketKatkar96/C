@@ -1,6 +1,6 @@
-# C
+## C
 
-# What Is C Programming?
+## What Is C Programming?
 - C isn’t just a language.
 - It’s the bedrock of software development — fast, lean, and beautifully logical.
 
@@ -25,7 +25,9 @@
 
 - Compiler Based
 - C programs are converted into machine code using a compiler before execution
+
  ## Basic C Program Syntax
+ 
 ```
 #include <stdio.h>
 
