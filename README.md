@@ -38,3 +38,10 @@ int main()
     return 0;
 }
 ```
+
+## Explain simple code structure :-
+-  #include <stdio.h> — Includes functions for input and output.
+-  int main() — The main function where program execution begins.
+-  { } — Defines the beginning and end of a code block.
+-  printf() — Displays output on the screen.
+-  return 0; — Indicates that the program has finished successfully.
