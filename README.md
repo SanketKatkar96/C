@@ -45,3 +45,16 @@ int main()
 -  { } — Defines the beginning and end of a code block.
 -  printf() — Displays output on the screen.
 -  return 0; — Indicates that the program has finished successfully.
+
+ ## Basic Topics in C Language :-
+ 
+1	Variables	  :-   Store data in memory
+2	Data Types :- 	Define the type of data
+3	Operators	 :- Perform calculations and comparisons
+4	If-Else	:- Make decisions
+5	Loops	:- Repeat statements
+6	Functions	:- Reuse blocks of code
+7	Arrays	:- Store multiple values
+8	Pointers	:- Work with memory addresses
+9	Structures	:- Group related data
+10	File Handling	:-Read and write files
