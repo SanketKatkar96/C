@@ -47,7 +47,7 @@ int main()
 -  return 0; — Indicates that the program has finished successfully.
 
  ## Basic Topics in C Language :-
- 
+ ~~~
 -1	Variables	  :-   Store data in memory.
 -2	Data Types :- 	Define the type of data.
 -3 Operators	 :- Perform calculations and comparisons.
@@ -57,6 +57,6 @@ int main()
 -7	Arrays	:- Store multiple values.
 -8 Pointers	:- Work with memory addresses.
 -9 Structures	:- Group related data.
--10File Handling	:-Read and write files.
-
+-10 File Handling	:-Read and write files.
+~~~
  
