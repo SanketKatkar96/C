@@ -59,6 +59,5 @@ int main()
 9 Structures	:- Group related data.
 10 File Handling	:-Read and write files.
 ~~~
- gkugkgl
- gvkhuklihli
+
  
